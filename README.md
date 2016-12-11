@@ -1,0 +1,2 @@
+# javascriptBasicDemo
+这是我学习JavaScript用于练手和加深印象的小例子，涉及到JavaScript基础、jQuery基础，将来或许还会包括angularJS
